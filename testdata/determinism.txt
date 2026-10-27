@@ -1,0 +1,867 @@
+ambig ar-EG America/New_York	"2024-11-03T01:30:00.000-05:00"
+ambig ar-EG Asia/Calcutta	"2024-11-03T01:30:00.000+05:30"
+ambig ar-EG Asia/Kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig ar-EG Australia/Lord_Howe	"2024-11-03T01:30:00.000+11:00"
+ambig ar-EG Europe/Dublin	"2024-11-03T01:30:00.000+00:00"
+ambig ar-EG asia/kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig de America/New_York	"2024-11-03T01:30:00.000-05:00"
+ambig de Asia/Calcutta	"2024-11-03T01:30:00.000+05:30"
+ambig de Asia/Kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig de Australia/Lord_Howe	"2024-11-03T01:30:00.000+11:00"
+ambig de Europe/Dublin	"2024-11-03T01:30:00.000+00:00"
+ambig de asia/kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig en-US America/New_York	"2024-11-03T01:30:00.000-05:00"
+ambig en-US Asia/Calcutta	"2024-11-03T01:30:00.000+05:30"
+ambig en-US Asia/Kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig en-US Australia/Lord_Howe	"2024-11-03T01:30:00.000+11:00"
+ambig en-US Europe/Dublin	"2024-11-03T01:30:00.000+00:00"
+ambig en-US asia/kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig es America/New_York	"2024-11-03T01:30:00.000-05:00"
+ambig es Asia/Calcutta	"2024-11-03T01:30:00.000+05:30"
+ambig es Asia/Kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig es Australia/Lord_Howe	"2024-11-03T01:30:00.000+11:00"
+ambig es Europe/Dublin	"2024-11-03T01:30:00.000+00:00"
+ambig es asia/kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig fa-IR America/New_York	"2024-11-03T01:30:00.000-05:00"
+ambig fa-IR Asia/Calcutta	"2024-11-03T01:30:00.000+05:30"
+ambig fa-IR Asia/Kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig fa-IR Australia/Lord_Howe	"2024-11-03T01:30:00.000+11:00"
+ambig fa-IR Europe/Dublin	"2024-11-03T01:30:00.000+00:00"
+ambig fa-IR asia/kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig fr America/New_York	"2024-11-03T01:30:00.000-05:00"
+ambig fr Asia/Calcutta	"2024-11-03T01:30:00.000+05:30"
+ambig fr Asia/Kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig fr Australia/Lord_Howe	"2024-11-03T01:30:00.000+11:00"
+ambig fr Europe/Dublin	"2024-11-03T01:30:00.000+00:00"
+ambig fr asia/kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig he-IL-u-ca-hebrew America/New_York	"2024-11-03T01:30:00.000-05:00"
+ambig he-IL-u-ca-hebrew Asia/Calcutta	"2024-11-03T01:30:00.000+05:30"
+ambig he-IL-u-ca-hebrew Asia/Kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig he-IL-u-ca-hebrew Australia/Lord_Howe	"2024-11-03T01:30:00.000+11:00"
+ambig he-IL-u-ca-hebrew Europe/Dublin	"2024-11-03T01:30:00.000+00:00"
+ambig he-IL-u-ca-hebrew asia/kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig hi-IN America/New_York	"2024-11-03T01:30:00.000-05:00"
+ambig hi-IN Asia/Calcutta	"2024-11-03T01:30:00.000+05:30"
+ambig hi-IN Asia/Kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig hi-IN Australia/Lord_Howe	"2024-11-03T01:30:00.000+11:00"
+ambig hi-IN Europe/Dublin	"2024-11-03T01:30:00.000+00:00"
+ambig hi-IN asia/kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig ja-JP-u-ca-japanese America/New_York	"2024-11-03T01:30:00.000-05:00"
+ambig ja-JP-u-ca-japanese Asia/Calcutta	"2024-11-03T01:30:00.000+05:30"
+ambig ja-JP-u-ca-japanese Asia/Kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig ja-JP-u-ca-japanese Australia/Lord_Howe	"2024-11-03T01:30:00.000+11:00"
+ambig ja-JP-u-ca-japanese Europe/Dublin	"2024-11-03T01:30:00.000+00:00"
+ambig ja-JP-u-ca-japanese asia/kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig ru America/New_York	"2024-11-03T01:30:00.000-05:00"
+ambig ru Asia/Calcutta	"2024-11-03T01:30:00.000+05:30"
+ambig ru Asia/Kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig ru Australia/Lord_Howe	"2024-11-03T01:30:00.000+11:00"
+ambig ru Europe/Dublin	"2024-11-03T01:30:00.000+00:00"
+ambig ru asia/kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig th-TH America/New_York	"2024-11-03T01:30:00.000-05:00"
+ambig th-TH Asia/Calcutta	"2024-11-03T01:30:00.000+05:30"
+ambig th-TH Asia/Kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig th-TH Australia/Lord_Howe	"2024-11-03T01:30:00.000+11:00"
+ambig th-TH Europe/Dublin	"2024-11-03T01:30:00.000+00:00"
+ambig th-TH asia/kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig zh-Hant-u-nu-hanidec America/New_York	"2024-11-03T01:30:00.000-05:00"
+ambig zh-Hant-u-nu-hanidec Asia/Calcutta	"2024-11-03T01:30:00.000+05:30"
+ambig zh-Hant-u-nu-hanidec Asia/Kolkata	"2024-11-03T01:30:00.000+05:30"
+ambig zh-Hant-u-nu-hanidec Australia/Lord_Howe	"2024-11-03T01:30:00.000+11:00"
+ambig zh-Hant-u-nu-hanidec Europe/Dublin	"2024-11-03T01:30:00.000+00:00"
+ambig zh-Hant-u-nu-hanidec asia/kolkata	"2024-11-03T01:30:00.000+05:30"
+fmt ar-EG America/New_York	"٢٠٢٣ نوفمبر ١٤ الثلاثاء م غرينتش-٥ التوقيت الرسمي الشرقي لأمريكا الشمالية م"
+fmt ar-EG Asia/Calcutta	"٢٠٢٣ نوفمبر ١٥ الأربعاء ص غرينتش+٥:٣٠ توقيت الهند م"
+fmt ar-EG Asia/Kolkata	"٢٠٢٣ نوفمبر ١٥ الأربعاء ص غرينتش+٥:٣٠ توقيت الهند م"
+fmt ar-EG Australia/Lord_Howe	"٢٠٢٣ نوفمبر ١٥ الأربعاء ص غرينتش+١١ التوقيت الصيفي للورد هاو م"
+fmt ar-EG Europe/Dublin	"٢٠٢٣ نوفمبر ١٤ الثلاثاء م غرينتش+٠ توقيت غرينتش م"
+fmt ar-EG asia/kolkata	"٢٠٢٣ نوفمبر ١٥ الأربعاء ص غرينتش+٥:٣٠ توقيت الهند م"
+fmt de America/New_York	"2023 November 14 Dienstag PM GMT-5 Nordamerikanische Ostküsten-Normalzeit n. Chr."
+fmt de Asia/Calcutta	"2023 November 15 Mittwoch AM GMT+5:30 Indische Normalzeit n. Chr."
+fmt de Asia/Kolkata	"2023 November 15 Mittwoch AM GMT+5:30 Indische Normalzeit n. Chr."
+fmt de Australia/Lord_Howe	"2023 November 15 Mittwoch AM GMT+11 Lord-Howe-Sommerzeit n. Chr."
+fmt de Europe/Dublin	"2023 November 14 Dienstag PM GMT+0 Mittlere Greenwich-Zeit n. Chr."
+fmt de asia/kolkata	"2023 November 15 Mittwoch AM GMT+5:30 Indische Normalzeit n. Chr."
+fmt en-US America/New_York	"2023 November 14 Tuesday PM EST Eastern Standard Time AD"
+fmt en-US Asia/Calcutta	"2023 November 15 Wednesday AM GMT+5:30 India Standard Time AD"
+fmt en-US Asia/Kolkata	"2023 November 15 Wednesday AM GMT+5:30 India Standard Time AD"
+fmt en-US Australia/Lord_Howe	"2023 November 15 Wednesday AM GMT+11 Lord Howe Daylight Time AD"
+fmt en-US Europe/Dublin	"2023 November 14 Tuesday PM GMT Greenwich Mean Time AD"
+fmt en-US asia/kolkata	"2023 November 15 Wednesday AM GMT+5:30 India Standard Time AD"
+fmt es America/New_York	"2023 noviembre 14 martes p. m. GMT-5 hora estándar oriental d. C."
+fmt es Asia/Calcutta	"2023 noviembre 15 miércoles a. m. GMT+5:30 hora estándar de la India d. C."
+fmt es Asia/Kolkata	"2023 noviembre 15 miércoles a. m. GMT+5:30 hora estándar de la India d. C."
+fmt es Australia/Lord_Howe	"2023 noviembre 15 miércoles a. m. GMT+11 hora de verano de Lord Howe d. C."
+fmt es Europe/Dublin	"2023 noviembre 14 martes p. m. GMT hora del meridiano de Greenwich d. C."
+fmt es asia/kolkata	"2023 noviembre 15 miércoles a. m. GMT+5:30 hora estándar de la India d. C."
+fmt fa-IR America/New_York	"۲۰۲۳ آبان ۱۴ سه‌شنبه ب.ظ. ‎−۵ گرینویچ وقت عادی شرق امریکا ه‍.ش."
+fmt fa-IR Asia/Calcutta	"۲۰۲۳ آبان ۱۵ چهارشنبه ق.ظ. ‎+۵:۳۰ گرینویچ وقت هند ه‍.ش."
+fmt fa-IR Asia/Kolkata	"۲۰۲۳ آبان ۱۵ چهارشنبه ق.ظ. ‎+۵:۳۰ گرینویچ وقت هند ه‍.ش."
+fmt fa-IR Australia/Lord_Howe	"۲۰۲۳ آبان ۱۵ چهارشنبه ق.ظ. ‎+۱۱ گرینویچ وقت تابستانی لردهو ه‍.ش."
+fmt fa-IR Europe/Dublin	"۲۰۲۳ آبان ۱۴ سه‌شنبه ب.ظ. ‎+۰ گرینویچ وقت گرینویچ ه‍.ش."
+fmt fa-IR asia/kolkata	"۲۰۲۳ آبان ۱۵ چهارشنبه ق.ظ. ‎+۵:۳۰ گرینویچ وقت هند ه‍.ش."
+fmt fr America/New_York	"2023 novembre 14 mardi PM UTC−5 heure normale de l’Est nord-américain ap. J.-C."
+fmt fr Asia/Calcutta	"2023 novembre 15 mercredi AM UTC+5:30 heure de l’Inde ap. J.-C."
+fmt fr Asia/Kolkata	"2023 novembre 15 mercredi AM UTC+5:30 heure de l’Inde ap. J.-C."
+fmt fr Australia/Lord_Howe	"2023 novembre 15 mercredi AM UTC+11 heure d’été de Lord Howe ap. J.-C."
+fmt fr Europe/Dublin	"2023 novembre 14 mardi PM UTC+0 heure moyenne de Greenwich ap. J.-C."
+fmt fr asia/kolkata	"2023 novembre 15 mercredi AM UTC+5:30 heure de l’Inde ap. J.-C."
+fmt he-IL-u-ca-hebrew America/New_York	"5784 כסלו 01 יום שלישי PM GMT-5‎ שעון החוף המזרחי (חורף) AM"
+fmt he-IL-u-ca-hebrew Asia/Calcutta	"5784 כסלו 02 יום רביעי AM GMT‎+5:30‎ שעון הודו AM"
+fmt he-IL-u-ca-hebrew Asia/Kolkata	"5784 כסלו 02 יום רביעי AM GMT‎+5:30‎ שעון הודו AM"
+fmt he-IL-u-ca-hebrew Australia/Lord_Howe	"5784 כסלו 02 יום רביעי AM GMT‎+11‎ שעון אי הלורד האו (קיץ) AM"
+fmt he-IL-u-ca-hebrew Europe/Dublin	"5784 כסלו 01 יום שלישי PM GMT‎+0‎ שעון גריניץ׳‏ AM"
+fmt he-IL-u-ca-hebrew asia/kolkata	"5784 כסלו 02 יום רביעי AM GMT‎+5:30‎ שעון הודו AM"
+fmt hi-IN America/New_York	"2023 नवंबर 14 मंगलवार pm GMT-5 उत्तरी अमेरिकी पूर्वी मानक समय ईस्वी"
+fmt hi-IN Asia/Calcutta	"2023 नवंबर 15 बुधवार am IST भारतीय मानक समय ईस्वी"
+fmt hi-IN Asia/Kolkata	"2023 नवंबर 15 बुधवार am IST भारतीय मानक समय ईस्वी"
+fmt hi-IN Australia/Lord_Howe	"2023 नवंबर 15 बुधवार am GMT+11 लॉर्ड होवे डेलाइट समय ईस्वी"
+fmt hi-IN Europe/Dublin	"2023 नवंबर 14 मंगलवार pm GMT+0 ग्रीनविच मीन टाइम ईस्वी"
+fmt hi-IN asia/kolkata	"2023 नवंबर 15 बुधवार am IST भारतीय मानक समय ईस्वी"
+fmt ja-JP-u-ca-japanese America/New_York	"5 11 14 火曜日 午後 GMT-5 米国東部標準時 令和"
+fmt ja-JP-u-ca-japanese Asia/Calcutta	"5 11 15 水曜日 午前 GMT+5:30 インド標準時 令和"
+fmt ja-JP-u-ca-japanese Asia/Kolkata	"5 11 15 水曜日 午前 GMT+5:30 インド標準時 令和"
+fmt ja-JP-u-ca-japanese Australia/Lord_Howe	"5 11 15 水曜日 午前 GMT+11 ロードハウ夏時間 令和"
+fmt ja-JP-u-ca-japanese Europe/Dublin	"5 11 14 火曜日 午後 GMT+0 グリニッジ標準時 令和"
+fmt ja-JP-u-ca-japanese asia/kolkata	"5 11 15 水曜日 午前 GMT+5:30 インド標準時 令和"
+fmt ru America/New_York	"2023 ноябрь 14 вторник PM GMT-5 Восточная Америка, стандартное время н. э."
+fmt ru Asia/Calcutta	"2023 ноябрь 15 среда AM GMT+5:30 Индия н. э."
+fmt ru Asia/Kolkata	"2023 ноябрь 15 среда AM GMT+5:30 Индия н. э."
+fmt ru Australia/Lord_Howe	"2023 ноябрь 15 среда AM GMT+11 Лорд-Хау, летнее время н. э."
+fmt ru Europe/Dublin	"2023 ноябрь 14 вторник PM GMT+0 Среднее время по Гринвичу н. э."
+fmt ru asia/kolkata	"2023 ноябрь 15 среда AM GMT+5:30 Индия н. э."
+fmt th-TH America/New_York	"2023 พฤศจิกายน 14 วันอังคาร PM GMT-5 เวลามาตรฐานทางตะวันออกในอเมริกาเหนือ พ.ศ."
+fmt th-TH Asia/Calcutta	"2023 พฤศจิกายน 15 วันพุธ AM GMT+5:30 เวลาอินเดีย พ.ศ."
+fmt th-TH Asia/Kolkata	"2023 พฤศจิกายน 15 วันพุธ AM GMT+5:30 เวลาอินเดีย พ.ศ."
+fmt th-TH Australia/Lord_Howe	"2023 พฤศจิกายน 15 วันพุธ AM GMT+11 เวลาออมแสงลอร์ดโฮว์ พ.ศ."
+fmt th-TH Europe/Dublin	"2023 พฤศจิกายน 14 วันอังคาร PM GMT+0 เวลามาตรฐานกรีนิช พ.ศ."
+fmt th-TH asia/kolkata	"2023 พฤศจิกายน 15 วันพุธ AM GMT+5:30 เวลาอินเดีย พ.ศ."
+fmt zh-Hant-u-nu-hanidec America/New_York	"二〇二三 11月 一四 星期二 下午 EST 東部標準時間 西元"
+fmt zh-Hant-u-nu-hanidec Asia/Calcutta	"二〇二三 11月 一五 星期三 上午 GMT+五:三〇 印度標準時間 西元"
+fmt zh-Hant-u-nu-hanidec Asia/Kolkata	"二〇二三 11月 一五 星期三 上午 GMT+五:三〇 印度標準時間 西元"
+fmt zh-Hant-u-nu-hanidec Australia/Lord_Howe	"二〇二三 11月 一五 星期三 上午 GMT+一一 豪勳爵島夏令時間 西元"
+fmt zh-Hant-u-nu-hanidec Europe/Dublin	"二〇二三 11月 一四 星期二 下午 GMT 格林威治標準時間 西元"
+fmt zh-Hant-u-nu-hanidec asia/kolkata	"二〇二三 11月 一五 星期三 上午 GMT+五:三〇 印度標準時間 西元"
+full ar-EG America/New_York	"الثلاثاء، ١٤ نوفمبر ٢٠٢٣ في ٥:١٣ م التوقيت الرسمي الشرقي لأمريكا الشمالية"
+full ar-EG Asia/Calcutta	"الأربعاء، ١٥ نوفمبر ٢٠٢٣ في ٣:٤٣ ص توقيت الهند"
+full ar-EG Asia/Kolkata	"الأربعاء، ١٥ نوفمبر ٢٠٢٣ في ٣:٤٣ ص توقيت الهند"
+full ar-EG Australia/Lord_Howe	"الأربعاء، ١٥ نوفمبر ٢٠٢٣ في ٩:١٣ ص التوقيت الصيفي للورد هاو"
+full ar-EG Europe/Dublin	"الثلاثاء، ١٤ نوفمبر ٢٠٢٣ في ١٠:١٣ م توقيت غرينتش"
+full ar-EG asia/kolkata	"الأربعاء، ١٥ نوفمبر ٢٠٢٣ في ٣:٤٣ ص توقيت الهند"
+full de America/New_York	"Dienstag, 14. November 2023 um 17:13 Nordamerikanische Ostküsten-Normalzeit"
+full de Asia/Calcutta	"Mittwoch, 15. November 2023 um 03:43 Indische Normalzeit"
+full de Asia/Kolkata	"Mittwoch, 15. November 2023 um 03:43 Indische Normalzeit"
+full de Australia/Lord_Howe	"Mittwoch, 15. November 2023 um 09:13 Lord-Howe-Sommerzeit"
+full de Europe/Dublin	"Dienstag, 14. November 2023 um 22:13 Mittlere Greenwich-Zeit"
+full de asia/kolkata	"Mittwoch, 15. November 2023 um 03:43 Indische Normalzeit"
+full en-US America/New_York	"Tuesday, November 14, 2023 at 5:13 PM Eastern Standard Time"
+full en-US Asia/Calcutta	"Wednesday, November 15, 2023 at 3:43 AM India Standard Time"
+full en-US Asia/Kolkata	"Wednesday, November 15, 2023 at 3:43 AM India Standard Time"
+full en-US Australia/Lord_Howe	"Wednesday, November 15, 2023 at 9:13 AM Lord Howe Daylight Time"
+full en-US Europe/Dublin	"Tuesday, November 14, 2023 at 10:13 PM Greenwich Mean Time"
+full en-US asia/kolkata	"Wednesday, November 15, 2023 at 3:43 AM India Standard Time"
+full es America/New_York	"martes, 14 de noviembre de 2023, 17:13 hora estándar oriental"
+full es Asia/Calcutta	"miércoles, 15 de noviembre de 2023, 3:43 hora estándar de la India"
+full es Asia/Kolkata	"miércoles, 15 de noviembre de 2023, 3:43 hora estándar de la India"
+full es Australia/Lord_Howe	"miércoles, 15 de noviembre de 2023, 9:13 hora de verano de Lord Howe"
+full es Europe/Dublin	"martes, 14 de noviembre de 2023, 22:13 hora del meridiano de Greenwich"
+full es asia/kolkata	"miércoles, 15 de noviembre de 2023, 3:43 hora estándar de la India"
+full fa-IR America/New_York	"۱۴۰۲ آبان ۲۳, سه‌شنبه ساعت ۱۷:۱۳ (وقت عادی شرق امریکا)"
+full fa-IR Asia/Calcutta	"۱۴۰۲ آبان ۲۴, چهارشنبه ساعت ۳:۴۳ (وقت هند)"
+full fa-IR Asia/Kolkata	"۱۴۰۲ آبان ۲۴, چهارشنبه ساعت ۳:۴۳ (وقت هند)"
+full fa-IR Australia/Lord_Howe	"۱۴۰۲ آبان ۲۴, چهارشنبه ساعت ۹:۱۳ (وقت تابستانی لردهو)"
+full fa-IR Europe/Dublin	"۱۴۰۲ آبان ۲۳, سه‌شنبه ساعت ۲۲:۱۳ (وقت گرینویچ)"
+full fa-IR asia/kolkata	"۱۴۰۲ آبان ۲۴, چهارشنبه ساعت ۳:۴۳ (وقت هند)"
+full fr America/New_York	"mardi 14 novembre 2023 à 17:13 heure normale de l’Est nord-américain"
+full fr Asia/Calcutta	"mercredi 15 novembre 2023 à 03:43 heure de l’Inde"
+full fr Asia/Kolkata	"mercredi 15 novembre 2023 à 03:43 heure de l’Inde"
+full fr Australia/Lord_Howe	"mercredi 15 novembre 2023 à 09:13 heure d’été de Lord Howe"
+full fr Europe/Dublin	"mardi 14 novembre 2023 à 22:13 heure moyenne de Greenwich"
+full fr asia/kolkata	"mercredi 15 novembre 2023 à 03:43 heure de l’Inde"
+full he-IL-u-ca-hebrew America/New_York	"יום שלישי, 1 בכסלו 5784 בשעה 17:13 שעון החוף המזרחי (חורף)"
+full he-IL-u-ca-hebrew Asia/Calcutta	"יום רביעי, 2 בכסלו 5784 בשעה 3:43 שעון הודו"
+full he-IL-u-ca-hebrew Asia/Kolkata	"יום רביעי, 2 בכסלו 5784 בשעה 3:43 שעון הודו"
+full he-IL-u-ca-hebrew Australia/Lord_Howe	"יום רביעי, 2 בכסלו 5784 בשעה 9:13 שעון אי הלורד האו (קיץ)"
+full he-IL-u-ca-hebrew Europe/Dublin	"יום שלישי, 1 בכסלו 5784 בשעה 22:13 שעון גריניץ׳‏"
+full he-IL-u-ca-hebrew asia/kolkata	"יום רביעי, 2 בכסלו 5784 בשעה 3:43 שעון הודו"
+full hi-IN America/New_York	"मंगलवार, 14 नवंबर 2023 को 5:13 pm उत्तरी अमेरिकी पूर्वी मानक समय बजे"
+full hi-IN Asia/Calcutta	"बुधवार, 15 नवंबर 2023 को 3:43 am भारतीय मानक समय बजे"
+full hi-IN Asia/Kolkata	"बुधवार, 15 नवंबर 2023 को 3:43 am भारतीय मानक समय बजे"
+full hi-IN Australia/Lord_Howe	"बुधवार, 15 नवंबर 2023 को 9:13 am लॉर्ड होवे डेलाइट समय बजे"
+full hi-IN Europe/Dublin	"मंगलवार, 14 नवंबर 2023 को 10:13 pm ग्रीनविच मीन टाइम बजे"
+full hi-IN asia/kolkata	"बुधवार, 15 नवंबर 2023 को 3:43 am भारतीय मानक समय बजे"
+full ja-JP-u-ca-japanese America/New_York	"令和5年11月14日火曜日 17:13 米国東部標準時"
+full ja-JP-u-ca-japanese Asia/Calcutta	"令和5年11月15日水曜日 3:43 インド標準時"
+full ja-JP-u-ca-japanese Asia/Kolkata	"令和5年11月15日水曜日 3:43 インド標準時"
+full ja-JP-u-ca-japanese Australia/Lord_Howe	"令和5年11月15日水曜日 9:13 ロードハウ夏時間"
+full ja-JP-u-ca-japanese Europe/Dublin	"令和5年11月14日火曜日 22:13 グリニッジ標準時"
+full ja-JP-u-ca-japanese asia/kolkata	"令和5年11月15日水曜日 3:43 インド標準時"
+full ru America/New_York	"вторник, 14 ноября 2023 г. в 17:13 Восточная Америка, стандартное время"
+full ru Asia/Calcutta	"среда, 15 ноября 2023 г. в 03:43 Индия"
+full ru Asia/Kolkata	"среда, 15 ноября 2023 г. в 03:43 Индия"
+full ru Australia/Lord_Howe	"среда, 15 ноября 2023 г. в 09:13 Лорд-Хау, летнее время"
+full ru Europe/Dublin	"вторник, 14 ноября 2023 г. в 22:13 Среднее время по Гринвичу"
+full ru asia/kolkata	"среда, 15 ноября 2023 г. в 03:43 Индия"
+full th-TH America/New_York	"วันอังคารที่ 14 พฤศจิกายน 2566 เวลา 17:13 เวลามาตรฐานทางตะวันออกในอเมริกาเหนือ"
+full th-TH Asia/Calcutta	"วันพุธที่ 15 พฤศจิกายน 2566 เวลา 03:43 เวลาอินเดีย"
+full th-TH Asia/Kolkata	"วันพุธที่ 15 พฤศจิกายน 2566 เวลา 03:43 เวลาอินเดีย"
+full th-TH Australia/Lord_Howe	"วันพุธที่ 15 พฤศจิกายน 2566 เวลา 09:13 เวลาออมแสงลอร์ดโฮว์"
+full th-TH Europe/Dublin	"วันอังคารที่ 14 พฤศจิกายน 2566 เวลา 22:13 เวลามาตรฐานกรีนิช"
+full th-TH asia/kolkata	"วันพุธที่ 15 พฤศจิกายน 2566 เวลา 03:43 เวลาอินเดีย"
+full zh-Hant-u-nu-hanidec America/New_York	"二〇二三年一一月一四日星期二 下午五:一三 [東部標準時間]"
+full zh-Hant-u-nu-hanidec Asia/Calcutta	"二〇二三年一一月一五日星期三 上午三:四三 [印度標準時間]"
+full zh-Hant-u-nu-hanidec Asia/Kolkata	"二〇二三年一一月一五日星期三 上午三:四三 [印度標準時間]"
+full zh-Hant-u-nu-hanidec Australia/Lord_Howe	"二〇二三年一一月一五日星期三 上午九:一三 [豪勳爵島夏令時間]"
+full zh-Hant-u-nu-hanidec Europe/Dublin	"二〇二三年一一月一四日星期二 下午一〇:一三 [格林威治標準時間]"
+full zh-Hant-u-nu-hanidec asia/kolkata	"二〇二三年一一月一五日星期三 上午三:四三 [印度標準時間]"
+human ar-EG	"سنة وشهران و١٠٠٠ ساعة و١٫٥ دقيقة"
+human ar-EG	"سنة وشهران و١٠٠٠ ساعة و١٫٥ دقيقة"
+human ar-EG	"سنة وشهران و١٠٠٠ ساعة و١٫٥ دقيقة"
+human ar-EG	"سنة وشهران و١٠٠٠ ساعة و١٫٥ دقيقة"
+human ar-EG	"سنة وشهران و١٠٠٠ ساعة و١٫٥ دقيقة"
+human ar-EG	"سنة وشهران و١٠٠٠ ساعة و١٫٥ دقيقة"
+human de	"1 Jahr, 2 Monate, 1000 Stunden und 1,5 Minuten"
+human de	"1 Jahr, 2 Monate, 1000 Stunden und 1,5 Minuten"
+human de	"1 Jahr, 2 Monate, 1000 Stunden und 1,5 Minuten"
+human de	"1 Jahr, 2 Monate, 1000 Stunden und 1,5 Minuten"
+human de	"1 Jahr, 2 Monate, 1000 Stunden und 1,5 Minuten"
+human de	"1 Jahr, 2 Monate, 1000 Stunden und 1,5 Minuten"
+human en-US	"1 year, 2 months, 1000 hours, 1.5 minutes"
+human en-US	"1 year, 2 months, 1000 hours, 1.5 minutes"
+human en-US	"1 year, 2 months, 1000 hours, 1.5 minutes"
+human en-US	"1 year, 2 months, 1000 hours, 1.5 minutes"
+human en-US	"1 year, 2 months, 1000 hours, 1.5 minutes"
+human en-US	"1 year, 2 months, 1000 hours, 1.5 minutes"
+human es	"1 año, 2 meses, 1000 horas y 1,5 minutos"
+human es	"1 año, 2 meses, 1000 horas y 1,5 minutos"
+human es	"1 año, 2 meses, 1000 horas y 1,5 minutos"
+human es	"1 año, 2 meses, 1000 horas y 1,5 minutos"
+human es	"1 año, 2 meses, 1000 horas y 1,5 minutos"
+human es	"1 año, 2 meses, 1000 horas y 1,5 minutos"
+human fa-IR	"۱ سال،‏ ۲ ماه،‏ ۱۰۰۰ ساعت،‏ ۱٫۵ دقیقه"
+human fa-IR	"۱ سال،‏ ۲ ماه،‏ ۱۰۰۰ ساعت،‏ ۱٫۵ دقیقه"
+human fa-IR	"۱ سال،‏ ۲ ماه،‏ ۱۰۰۰ ساعت،‏ ۱٫۵ دقیقه"
+human fa-IR	"۱ سال،‏ ۲ ماه،‏ ۱۰۰۰ ساعت،‏ ۱٫۵ دقیقه"
+human fa-IR	"۱ سال،‏ ۲ ماه،‏ ۱۰۰۰ ساعت،‏ ۱٫۵ دقیقه"
+human fa-IR	"۱ سال،‏ ۲ ماه،‏ ۱۰۰۰ ساعت،‏ ۱٫۵ دقیقه"
+human fr	"1 an, 2 mois, 1000 heures, 1,5 minute"
+human fr	"1 an, 2 mois, 1000 heures, 1,5 minute"
+human fr	"1 an, 2 mois, 1000 heures, 1,5 minute"
+human fr	"1 an, 2 mois, 1000 heures, 1,5 minute"
+human fr	"1 an, 2 mois, 1000 heures, 1,5 minute"
+human fr	"1 an, 2 mois, 1000 heures, 1,5 minute"
+human he-IL-u-ca-hebrew	"1 שנה, חודשיים, 1000 שעות ו-1.5 דקות"
+human he-IL-u-ca-hebrew	"1 שנה, חודשיים, 1000 שעות ו-1.5 דקות"
+human he-IL-u-ca-hebrew	"1 שנה, חודשיים, 1000 שעות ו-1.5 דקות"
+human he-IL-u-ca-hebrew	"1 שנה, חודשיים, 1000 שעות ו-1.5 דקות"
+human he-IL-u-ca-hebrew	"1 שנה, חודשיים, 1000 שעות ו-1.5 דקות"
+human he-IL-u-ca-hebrew	"1 שנה, חודשיים, 1000 שעות ו-1.5 דקות"
+human hi-IN	"1 वर्ष, 2 महीने, 1000 घंटे और 1.5 मिनट"
+human hi-IN	"1 वर्ष, 2 महीने, 1000 घंटे और 1.5 मिनट"
+human hi-IN	"1 वर्ष, 2 महीने, 1000 घंटे और 1.5 मिनट"
+human hi-IN	"1 वर्ष, 2 महीने, 1000 घंटे और 1.5 मिनट"
+human hi-IN	"1 वर्ष, 2 महीने, 1000 घंटे और 1.5 मिनट"
+human hi-IN	"1 वर्ष, 2 महीने, 1000 घंटे और 1.5 मिनट"
+human ja-JP-u-ca-japanese	"1 年、2 か月、1000 時間、1.5 分"
+human ja-JP-u-ca-japanese	"1 年、2 か月、1000 時間、1.5 分"
+human ja-JP-u-ca-japanese	"1 年、2 か月、1000 時間、1.5 分"
+human ja-JP-u-ca-japanese	"1 年、2 か月、1000 時間、1.5 分"
+human ja-JP-u-ca-japanese	"1 年、2 か月、1000 時間、1.5 分"
+human ja-JP-u-ca-japanese	"1 年、2 か月、1000 時間、1.5 分"
+human ru	"1 год, 2 месяца, 1000 часов, 1,5 минуты"
+human ru	"1 год, 2 месяца, 1000 часов, 1,5 минуты"
+human ru	"1 год, 2 месяца, 1000 часов, 1,5 минуты"
+human ru	"1 год, 2 месяца, 1000 часов, 1,5 минуты"
+human ru	"1 год, 2 месяца, 1000 часов, 1,5 минуты"
+human ru	"1 год, 2 месяца, 1000 часов, 1,5 минуты"
+human th-TH	"1 ปี 2 เดือน 1000 ชั่วโมง และ1.5 นาที"
+human th-TH	"1 ปี 2 เดือน 1000 ชั่วโมง และ1.5 นาที"
+human th-TH	"1 ปี 2 เดือน 1000 ชั่วโมง และ1.5 นาที"
+human th-TH	"1 ปี 2 เดือน 1000 ชั่วโมง และ1.5 นาที"
+human th-TH	"1 ปี 2 เดือน 1000 ชั่วโมง และ1.5 นาที"
+human th-TH	"1 ปี 2 เดือน 1000 ชั่วโมง และ1.5 นาที"
+human zh-Hant-u-nu-hanidec	"一 年、二 個月、一〇〇〇 小時和一.五 分鐘"
+human zh-Hant-u-nu-hanidec	"一 年、二 個月、一〇〇〇 小時和一.五 分鐘"
+human zh-Hant-u-nu-hanidec	"一 年、二 個月、一〇〇〇 小時和一.五 分鐘"
+human zh-Hant-u-nu-hanidec	"一 年、二 個月、一〇〇〇 小時和一.五 分鐘"
+human zh-Hant-u-nu-hanidec	"一 年、二 個月、一〇〇〇 小時和一.五 分鐘"
+human zh-Hant-u-nu-hanidec	"一 年、二 個月、一〇〇〇 小時和一.五 分鐘"
+info	[["01","02","03","04","05","06","07","08","09","10","11","12"],["01","02","03","04","05","06","07","08","09","10","11","12"],["ב׳","ג׳","ד׳","ה׳","ו׳","ש׳","א׳"],["大化","平成"],["上午","下午"]]
+interval	"9 sept. 2001, 02:46 – 9 nov. 2004, 11:33"
+iso +05:30 -1000000000000	"1938-04-25T03:43:20.000+05:30"
+iso +05:30 -2208988800000	"1900-01-01T05:30:00.000+05:30"
+iso +05:30 -62100000000000	"0002-02-17T05:30:00.000+05:30"
+iso +05:30 -8639999996400000	"-271821-04-20T06:30:00.000+05:30"
+iso +05:30 -8640000000000000	"-271821-04-20T05:30:00.000+05:30"
+iso +05:30 0	"1970-01-01T05:30:00.000+05:30"
+iso +05:30 1000000000000	"2001-09-09T07:16:40.000+05:30"
+iso +05:30 1700000000000	"2023-11-15T03:43:20.000+05:30"
+iso +05:30 1800000000000	"2027-01-15T13:30:00.000+05:30"
+iso +05:30 4100000000000	"2099-12-03T22:23:20.000+05:30"
+iso +05:30 8639999996400000	null
+iso +05:30 8640000000000000	null
+iso Africa/Accra -1000000000000	"1938-04-24T22:13:20.000+00:00"
+iso Africa/Accra -2208988800000	"1899-12-31T23:43:52.000-00:16"
+iso Africa/Accra -62100000000000	"0002-02-16T23:43:52.000-00:16"
+iso Africa/Accra -8639999996400000	"-271821-04-20T00:43:52.000-00:16"
+iso Africa/Accra -8640000000000000	null
+iso Africa/Accra 0	"1970-01-01T00:00:00.000+00:00"
+iso Africa/Accra 1000000000000	"2001-09-09T01:46:40.000+00:00"
+iso Africa/Accra 1700000000000	"2023-11-14T22:13:20.000+00:00"
+iso Africa/Accra 1800000000000	"2027-01-15T08:00:00.000+00:00"
+iso Africa/Accra 4100000000000	"2099-12-03T16:53:20.000+00:00"
+iso Africa/Accra 8639999996400000	"+275760-09-12T23:00:00.000+00:00"
+iso Africa/Accra 8640000000000000	"+275760-09-13T00:00:00.000+00:00"
+iso America/New_York -1000000000000	"1938-04-24T18:13:20.000-04:00"
+iso America/New_York -2208988800000	"1899-12-31T19:00:00.000-05:00"
+iso America/New_York -62100000000000	"0002-02-16T19:03:58.000-04:56"
+iso America/New_York -8639999996400000	null
+iso America/New_York -8640000000000000	null
+iso America/New_York 0	"1969-12-31T19:00:00.000-05:00"
+iso America/New_York 1000000000000	"2001-09-08T21:46:40.000-04:00"
+iso America/New_York 1700000000000	"2023-11-14T17:13:20.000-05:00"
+iso America/New_York 1800000000000	"2027-01-15T03:00:00.000-05:00"
+iso America/New_York 4100000000000	"2099-12-03T11:53:20.000-05:00"
+iso America/New_York 8639999996400000	"+275760-09-12T19:00:00.000-04:00"
+iso America/New_York 8640000000000000	"+275760-09-12T20:00:00.000-04:00"
+iso America/Winnipeg -1000000000000	"1938-04-24T16:13:20.000-06:00"
+iso America/Winnipeg -2208988800000	"1899-12-31T18:00:00.000-06:00"
+iso America/Winnipeg -62100000000000	"0002-02-16T17:31:24.000-06:28"
+iso America/Winnipeg -8639999996400000	null
+iso America/Winnipeg -8640000000000000	null
+iso America/Winnipeg 0	"1969-12-31T18:00:00.000-06:00"
+iso America/Winnipeg 1000000000000	"2001-09-08T20:46:40.000-05:00"
+iso America/Winnipeg 1700000000000	"2023-11-14T16:13:20.000-06:00"
+iso America/Winnipeg 1800000000000	"2027-01-15T03:00:00.000-05:00"
+iso America/Winnipeg 4100000000000	"2099-12-03T11:53:20.000-05:00"
+iso America/Winnipeg 8639999996400000	"+275760-09-12T18:00:00.000-05:00"
+iso America/Winnipeg 8640000000000000	"+275760-09-12T19:00:00.000-05:00"
+iso Asia/Calcutta -1000000000000	"1938-04-25T03:43:20.000+05:30"
+iso Asia/Calcutta -2208988800000	"1900-01-01T05:21:10.000+05:21"
+iso Asia/Calcutta -62100000000000	"0002-02-17T05:53:28.000+05:53"
+iso Asia/Calcutta -8639999996400000	"-271821-04-20T06:53:28.000+05:53"
+iso Asia/Calcutta -8640000000000000	"-271821-04-20T05:53:28.000+05:53"
+iso Asia/Calcutta 0	"1970-01-01T05:30:00.000+05:30"
+iso Asia/Calcutta 1000000000000	"2001-09-09T07:16:40.000+05:30"
+iso Asia/Calcutta 1700000000000	"2023-11-15T03:43:20.000+05:30"
+iso Asia/Calcutta 1800000000000	"2027-01-15T13:30:00.000+05:30"
+iso Asia/Calcutta 4100000000000	"2099-12-03T22:23:20.000+05:30"
+iso Asia/Calcutta 8639999996400000	null
+iso Asia/Calcutta 8640000000000000	null
+iso Asia/Kathmandu -1000000000000	"1938-04-25T03:43:20.000+05:30"
+iso Asia/Kathmandu -2208988800000	"1900-01-01T05:41:16.000+05:41"
+iso Asia/Kathmandu -62100000000000	"0002-02-17T05:41:16.000+05:41"
+iso Asia/Kathmandu -8639999996400000	"-271821-04-20T06:41:16.000+05:41"
+iso Asia/Kathmandu -8640000000000000	"-271821-04-20T05:41:16.000+05:41"
+iso Asia/Kathmandu 0	"1970-01-01T05:30:00.000+05:30"
+iso Asia/Kathmandu 1000000000000	"2001-09-09T07:31:40.000+05:45"
+iso Asia/Kathmandu 1700000000000	"2023-11-15T03:58:20.000+05:45"
+iso Asia/Kathmandu 1800000000000	"2027-01-15T13:45:00.000+05:45"
+iso Asia/Kathmandu 4100000000000	"2099-12-03T22:38:20.000+05:45"
+iso Asia/Kathmandu 8639999996400000	null
+iso Asia/Kathmandu 8640000000000000	null
+iso Asia/Kolkata -1000000000000	"1938-04-25T03:43:20.000+05:30"
+iso Asia/Kolkata -2208988800000	"1900-01-01T05:21:10.000+05:21"
+iso Asia/Kolkata -62100000000000	"0002-02-17T05:53:28.000+05:53"
+iso Asia/Kolkata -8639999996400000	"-271821-04-20T06:53:28.000+05:53"
+iso Asia/Kolkata -8640000000000000	"-271821-04-20T05:53:28.000+05:53"
+iso Asia/Kolkata 0	"1970-01-01T05:30:00.000+05:30"
+iso Asia/Kolkata 1000000000000	"2001-09-09T07:16:40.000+05:30"
+iso Asia/Kolkata 1700000000000	"2023-11-15T03:43:20.000+05:30"
+iso Asia/Kolkata 1800000000000	"2027-01-15T13:30:00.000+05:30"
+iso Asia/Kolkata 4100000000000	"2099-12-03T22:23:20.000+05:30"
+iso Asia/Kolkata 8639999996400000	null
+iso Asia/Kolkata 8640000000000000	null
+iso Australia/Lord_Howe -1000000000000	"1938-04-25T08:13:20.000+10:00"
+iso Australia/Lord_Howe -2208988800000	"1900-01-01T10:00:00.000+10:00"
+iso Australia/Lord_Howe -62100000000000	"0002-02-17T10:36:20.000+10:36"
+iso Australia/Lord_Howe -8639999996400000	"-271821-04-20T11:36:20.000+10:36"
+iso Australia/Lord_Howe -8640000000000000	"-271821-04-20T10:36:20.000+10:36"
+iso Australia/Lord_Howe 0	"1970-01-01T10:00:00.000+10:00"
+iso Australia/Lord_Howe 1000000000000	"2001-09-09T12:16:40.000+10:30"
+iso Australia/Lord_Howe 1700000000000	"2023-11-15T09:13:20.000+11:00"
+iso Australia/Lord_Howe 1800000000000	"2027-01-15T19:00:00.000+11:00"
+iso Australia/Lord_Howe 4100000000000	"2099-12-04T03:53:20.000+11:00"
+iso Australia/Lord_Howe 8639999996400000	null
+iso Australia/Lord_Howe 8640000000000000	null
+iso EST5EDT -1000000000000	"1938-04-24T17:13:20.000-05:00"
+iso EST5EDT -2208988800000	"1899-12-31T19:00:00.000-05:00"
+iso EST5EDT -62100000000000	"0002-02-16T19:00:00.000-05:00"
+iso EST5EDT -8639999996400000	null
+iso EST5EDT -8640000000000000	null
+iso EST5EDT 0	"1969-12-31T19:00:00.000-05:00"
+iso EST5EDT 1000000000000	"2001-09-08T21:46:40.000-04:00"
+iso EST5EDT 1700000000000	"2023-11-14T17:13:20.000-05:00"
+iso EST5EDT 1800000000000	"2027-01-15T03:00:00.000-05:00"
+iso EST5EDT 4100000000000	"2099-12-03T11:53:20.000-05:00"
+iso EST5EDT 8639999996400000	"+275760-09-12T19:00:00.000-04:00"
+iso EST5EDT 8640000000000000	"+275760-09-12T20:00:00.000-04:00"
+iso Etc/GMT+5 -1000000000000	"1938-04-24T17:13:20.000-05:00"
+iso Etc/GMT+5 -2208988800000	"1899-12-31T19:00:00.000-05:00"
+iso Etc/GMT+5 -62100000000000	"0002-02-16T19:00:00.000-05:00"
+iso Etc/GMT+5 -8639999996400000	null
+iso Etc/GMT+5 -8640000000000000	null
+iso Etc/GMT+5 0	"1969-12-31T19:00:00.000-05:00"
+iso Etc/GMT+5 1000000000000	"2001-09-08T20:46:40.000-05:00"
+iso Etc/GMT+5 1700000000000	"2023-11-14T17:13:20.000-05:00"
+iso Etc/GMT+5 1800000000000	"2027-01-15T03:00:00.000-05:00"
+iso Etc/GMT+5 4100000000000	"2099-12-03T11:53:20.000-05:00"
+iso Etc/GMT+5 8639999996400000	"+275760-09-12T18:00:00.000-05:00"
+iso Etc/GMT+5 8640000000000000	"+275760-09-12T19:00:00.000-05:00"
+iso Europe/Dublin -1000000000000	"1938-04-24T23:13:20.000+01:00"
+iso Europe/Dublin -2208988800000	"1899-12-31T23:34:39.000-00:25"
+iso Europe/Dublin -62100000000000	"0002-02-16T23:34:39.000-00:25"
+iso Europe/Dublin -8639999996400000	"-271821-04-20T00:34:39.000-00:25"
+iso Europe/Dublin -8640000000000000	null
+iso Europe/Dublin 0	"1970-01-01T01:00:00.000+01:00"
+iso Europe/Dublin 1000000000000	"2001-09-09T02:46:40.000+01:00"
+iso Europe/Dublin 1700000000000	"2023-11-14T22:13:20.000+00:00"
+iso Europe/Dublin 1800000000000	"2027-01-15T08:00:00.000+00:00"
+iso Europe/Dublin 4100000000000	"2099-12-03T16:53:20.000+00:00"
+iso Europe/Dublin 8639999996400000	"+275760-09-13T00:00:00.000+01:00"
+iso Europe/Dublin 8640000000000000	null
+iso Factory -1000000000000	null
+iso Factory -2208988800000	null
+iso Factory -62100000000000	null
+iso Factory -8639999996400000	null
+iso Factory -8640000000000000	null
+iso Factory 0	null
+iso Factory 1000000000000	null
+iso Factory 1700000000000	null
+iso Factory 1800000000000	null
+iso Factory 4100000000000	null
+iso Factory 8639999996400000	null
+iso Factory 8640000000000000	null
+iso IST -1000000000000	"1938-04-25T03:43:20.000+05:30"
+iso IST -2208988800000	"1900-01-01T05:21:10.000+05:21"
+iso IST -62100000000000	"0002-02-17T05:53:28.000+05:53"
+iso IST -8639999996400000	"-271821-04-20T06:53:28.000+05:53"
+iso IST -8640000000000000	"-271821-04-20T05:53:28.000+05:53"
+iso IST 0	"1970-01-01T05:30:00.000+05:30"
+iso IST 1000000000000	"2001-09-09T07:16:40.000+05:30"
+iso IST 1700000000000	"2023-11-15T03:43:20.000+05:30"
+iso IST 1800000000000	"2027-01-15T13:30:00.000+05:30"
+iso IST 4100000000000	"2099-12-03T22:23:20.000+05:30"
+iso IST 8639999996400000	null
+iso IST 8640000000000000	null
+iso US/Pacific-New -1000000000000	"1938-04-24T14:13:20.000-08:00"
+iso US/Pacific-New -2208988800000	"1899-12-31T16:00:00.000-08:00"
+iso US/Pacific-New -62100000000000	"0002-02-16T16:07:02.000-07:52"
+iso US/Pacific-New -8639999996400000	null
+iso US/Pacific-New -8640000000000000	null
+iso US/Pacific-New 0	"1969-12-31T16:00:00.000-08:00"
+iso US/Pacific-New 1000000000000	"2001-09-08T18:46:40.000-07:00"
+iso US/Pacific-New 1700000000000	"2023-11-14T14:13:20.000-08:00"
+iso US/Pacific-New 1800000000000	"2027-01-15T00:00:00.000-08:00"
+iso US/Pacific-New 4100000000000	"2099-12-03T08:53:20.000-08:00"
+iso US/Pacific-New 8639999996400000	"+275760-09-12T16:00:00.000-07:00"
+iso US/Pacific-New 8640000000000000	"+275760-09-12T17:00:00.000-07:00"
+iso asia/kolkata -1000000000000	"1938-04-25T03:43:20.000+05:30"
+iso asia/kolkata -2208988800000	"1900-01-01T05:21:10.000+05:21"
+iso asia/kolkata -62100000000000	"0002-02-17T05:53:28.000+05:53"
+iso asia/kolkata -8639999996400000	"-271821-04-20T06:53:28.000+05:53"
+iso asia/kolkata -8640000000000000	"-271821-04-20T05:53:28.000+05:53"
+iso asia/kolkata 0	"1970-01-01T05:30:00.000+05:30"
+iso asia/kolkata 1000000000000	"2001-09-09T07:16:40.000+05:30"
+iso asia/kolkata 1700000000000	"2023-11-15T03:43:20.000+05:30"
+iso asia/kolkata 1800000000000	"2027-01-15T13:30:00.000+05:30"
+iso asia/kolkata 4100000000000	"2099-12-03T22:23:20.000+05:30"
+iso asia/kolkata 8639999996400000	null
+iso asia/kolkata 8640000000000000	null
+norm	["Asia/Calcutta",false,"UTC+5:30"]
+off +05:30 -1000000000000	[330,"+05:30",true,null]
+off +05:30 -2208988800000	[330,"+05:30",true,null]
+off +05:30 -62100000000000	[330,"+05:30",true,null]
+off +05:30 -8639999996400000	[330,"+05:30",true,null]
+off +05:30 -8640000000000000	[330,"+05:30",true,null]
+off +05:30 0	[330,"+05:30",true,null]
+off +05:30 1000000000000	[330,"+05:30",true,null]
+off +05:30 1700000000000	[330,"+05:30",true,null]
+off +05:30 1800000000000	[330,"+05:30",true,null]
+off +05:30 4100000000000	[330,"+05:30",true,null]
+off +05:30 8639999996400000	[null,null,false,"invalid input"]
+off +05:30 8640000000000000	[null,null,false,"invalid input"]
+off Africa/Accra -1000000000000	[0,"Africa/Accra",true,null]
+off Africa/Accra -2208988800000	[-16.133333333333333,"Africa/Accra",true,null]
+off Africa/Accra -62100000000000	[-16.133333333333333,"Africa/Accra",true,null]
+off Africa/Accra -8639999996400000	[-16.133333333333333,"Africa/Accra",true,null]
+off Africa/Accra -8640000000000000	[null,null,false,"invalid input"]
+off Africa/Accra 0	[0,"Africa/Accra",true,null]
+off Africa/Accra 1000000000000	[0,"Africa/Accra",true,null]
+off Africa/Accra 1700000000000	[0,"Africa/Accra",true,null]
+off Africa/Accra 1800000000000	[0,"Africa/Accra",true,null]
+off Africa/Accra 4100000000000	[0,"Africa/Accra",true,null]
+off Africa/Accra 8639999996400000	[0,"Africa/Accra",true,null]
+off Africa/Accra 8640000000000000	[0,"Africa/Accra",true,null]
+off America/New_York -1000000000000	[-240,"America/New_York",true,null]
+off America/New_York -2208988800000	[-300,"America/New_York",true,null]
+off America/New_York -62100000000000	[-296.03333333333336,"America/New_York",true,null]
+off America/New_York -8639999996400000	[null,null,false,"invalid input"]
+off America/New_York -8640000000000000	[null,null,false,"invalid input"]
+off America/New_York 0	[-300,"America/New_York",true,null]
+off America/New_York 1000000000000	[-240,"America/New_York",true,null]
+off America/New_York 1700000000000	[-300,"America/New_York",true,null]
+off America/New_York 1800000000000	[-300,"America/New_York",true,null]
+off America/New_York 4100000000000	[-300,"America/New_York",true,null]
+off America/New_York 8639999996400000	[-240,"America/New_York",true,null]
+off America/New_York 8640000000000000	[-240,"America/New_York",true,null]
+off America/Winnipeg -1000000000000	[-360,"America/Winnipeg",true,null]
+off America/Winnipeg -2208988800000	[-360,"America/Winnipeg",true,null]
+off America/Winnipeg -62100000000000	[-388.6,"America/Winnipeg",true,null]
+off America/Winnipeg -8639999996400000	[null,null,false,"invalid input"]
+off America/Winnipeg -8640000000000000	[null,null,false,"invalid input"]
+off America/Winnipeg 0	[-360,"America/Winnipeg",true,null]
+off America/Winnipeg 1000000000000	[-300,"America/Winnipeg",true,null]
+off America/Winnipeg 1700000000000	[-360,"America/Winnipeg",true,null]
+off America/Winnipeg 1800000000000	[-300,"America/Winnipeg",true,null]
+off America/Winnipeg 4100000000000	[-300,"America/Winnipeg",true,null]
+off America/Winnipeg 8639999996400000	[-300,"America/Winnipeg",true,null]
+off America/Winnipeg 8640000000000000	[-300,"America/Winnipeg",true,null]
+off Asia/Calcutta -1000000000000	[330,"Asia/Calcutta",true,null]
+off Asia/Calcutta -2208988800000	[321.1666666666667,"Asia/Calcutta",true,null]
+off Asia/Calcutta -62100000000000	[353.46666666666664,"Asia/Calcutta",true,null]
+off Asia/Calcutta -8639999996400000	[353.46666666666664,"Asia/Calcutta",true,null]
+off Asia/Calcutta -8640000000000000	[353.46666666666664,"Asia/Calcutta",true,null]
+off Asia/Calcutta 0	[330,"Asia/Calcutta",true,null]
+off Asia/Calcutta 1000000000000	[330,"Asia/Calcutta",true,null]
+off Asia/Calcutta 1700000000000	[330,"Asia/Calcutta",true,null]
+off Asia/Calcutta 1800000000000	[330,"Asia/Calcutta",true,null]
+off Asia/Calcutta 4100000000000	[330,"Asia/Calcutta",true,null]
+off Asia/Calcutta 8639999996400000	[null,null,false,"invalid input"]
+off Asia/Calcutta 8640000000000000	[null,null,false,"invalid input"]
+off Asia/Kathmandu -1000000000000	[330,"Asia/Kathmandu",true,null]
+off Asia/Kathmandu -2208988800000	[341.26666666666665,"Asia/Kathmandu",true,null]
+off Asia/Kathmandu -62100000000000	[341.26666666666665,"Asia/Kathmandu",true,null]
+off Asia/Kathmandu -8639999996400000	[341.26666666666665,"Asia/Kathmandu",true,null]
+off Asia/Kathmandu -8640000000000000	[341.26666666666665,"Asia/Kathmandu",true,null]
+off Asia/Kathmandu 0	[330,"Asia/Kathmandu",true,null]
+off Asia/Kathmandu 1000000000000	[345,"Asia/Kathmandu",true,null]
+off Asia/Kathmandu 1700000000000	[345,"Asia/Kathmandu",true,null]
+off Asia/Kathmandu 1800000000000	[345,"Asia/Kathmandu",true,null]
+off Asia/Kathmandu 4100000000000	[345,"Asia/Kathmandu",true,null]
+off Asia/Kathmandu 8639999996400000	[null,null,false,"invalid input"]
+off Asia/Kathmandu 8640000000000000	[null,null,false,"invalid input"]
+off Asia/Kolkata -1000000000000	[330,"Asia/Kolkata",true,null]
+off Asia/Kolkata -2208988800000	[321.1666666666667,"Asia/Kolkata",true,null]
+off Asia/Kolkata -62100000000000	[353.46666666666664,"Asia/Kolkata",true,null]
+off Asia/Kolkata -8639999996400000	[353.46666666666664,"Asia/Kolkata",true,null]
+off Asia/Kolkata -8640000000000000	[353.46666666666664,"Asia/Kolkata",true,null]
+off Asia/Kolkata 0	[330,"Asia/Kolkata",true,null]
+off Asia/Kolkata 1000000000000	[330,"Asia/Kolkata",true,null]
+off Asia/Kolkata 1700000000000	[330,"Asia/Kolkata",true,null]
+off Asia/Kolkata 1800000000000	[330,"Asia/Kolkata",true,null]
+off Asia/Kolkata 4100000000000	[330,"Asia/Kolkata",true,null]
+off Asia/Kolkata 8639999996400000	[null,null,false,"invalid input"]
+off Asia/Kolkata 8640000000000000	[null,null,false,"invalid input"]
+off Australia/Lord_Howe -1000000000000	[600,"Australia/Lord_Howe",true,null]
+off Australia/Lord_Howe -2208988800000	[600,"Australia/Lord_Howe",true,null]
+off Australia/Lord_Howe -62100000000000	[636.3333333333334,"Australia/Lord_Howe",true,null]
+off Australia/Lord_Howe -8639999996400000	[636.3333333333334,"Australia/Lord_Howe",true,null]
+off Australia/Lord_Howe -8640000000000000	[636.3333333333334,"Australia/Lord_Howe",true,null]
+off Australia/Lord_Howe 0	[600,"Australia/Lord_Howe",true,null]
+off Australia/Lord_Howe 1000000000000	[630,"Australia/Lord_Howe",true,null]
+off Australia/Lord_Howe 1700000000000	[660,"Australia/Lord_Howe",true,null]
+off Australia/Lord_Howe 1800000000000	[660,"Australia/Lord_Howe",true,null]
+off Australia/Lord_Howe 4100000000000	[660,"Australia/Lord_Howe",true,null]
+off Australia/Lord_Howe 8639999996400000	[null,null,false,"invalid input"]
+off Australia/Lord_Howe 8640000000000000	[null,null,false,"invalid input"]
+off EST5EDT -1000000000000	[-300,"EST5EDT",true,null]
+off EST5EDT -2208988800000	[-300,"EST5EDT",true,null]
+off EST5EDT -62100000000000	[-300,"EST5EDT",true,null]
+off EST5EDT -8639999996400000	[null,null,false,"invalid input"]
+off EST5EDT -8640000000000000	[null,null,false,"invalid input"]
+off EST5EDT 0	[-300,"EST5EDT",true,null]
+off EST5EDT 1000000000000	[-240,"EST5EDT",true,null]
+off EST5EDT 1700000000000	[-300,"EST5EDT",true,null]
+off EST5EDT 1800000000000	[-300,"EST5EDT",true,null]
+off EST5EDT 4100000000000	[-300,"EST5EDT",true,null]
+off EST5EDT 8639999996400000	[-240,"EST5EDT",true,null]
+off EST5EDT 8640000000000000	[-240,"EST5EDT",true,null]
+off Etc/GMT+5 -1000000000000	[-300,"Etc/GMT+5",true,null]
+off Etc/GMT+5 -2208988800000	[-300,"Etc/GMT+5",true,null]
+off Etc/GMT+5 -62100000000000	[-300,"Etc/GMT+5",true,null]
+off Etc/GMT+5 -8639999996400000	[null,null,false,"invalid input"]
+off Etc/GMT+5 -8640000000000000	[null,null,false,"invalid input"]
+off Etc/GMT+5 0	[-300,"Etc/GMT+5",true,null]
+off Etc/GMT+5 1000000000000	[-300,"Etc/GMT+5",true,null]
+off Etc/GMT+5 1700000000000	[-300,"Etc/GMT+5",true,null]
+off Etc/GMT+5 1800000000000	[-300,"Etc/GMT+5",true,null]
+off Etc/GMT+5 4100000000000	[-300,"Etc/GMT+5",true,null]
+off Etc/GMT+5 8639999996400000	[-300,"Etc/GMT+5",true,null]
+off Etc/GMT+5 8640000000000000	[-300,"Etc/GMT+5",true,null]
+off Europe/Dublin -1000000000000	[60,"Europe/Dublin",true,null]
+off Europe/Dublin -2208988800000	[-25.35,"Europe/Dublin",true,null]
+off Europe/Dublin -62100000000000	[-25.35,"Europe/Dublin",true,null]
+off Europe/Dublin -8639999996400000	[-25.35,"Europe/Dublin",true,null]
+off Europe/Dublin -8640000000000000	[null,null,false,"invalid input"]
+off Europe/Dublin 0	[60,"Europe/Dublin",true,null]
+off Europe/Dublin 1000000000000	[60,"Europe/Dublin",true,null]
+off Europe/Dublin 1700000000000	[0,"Europe/Dublin",true,null]
+off Europe/Dublin 1800000000000	[0,"Europe/Dublin",true,null]
+off Europe/Dublin 4100000000000	[0,"Europe/Dublin",true,null]
+off Europe/Dublin 8639999996400000	[60,"Europe/Dublin",true,null]
+off Europe/Dublin 8640000000000000	[null,null,false,"invalid input"]
+off Factory -1000000000000	[null,null,false,"unsupported zone"]
+off Factory -2208988800000	[null,null,false,"unsupported zone"]
+off Factory -62100000000000	[null,null,false,"unsupported zone"]
+off Factory -8639999996400000	[null,null,false,"unsupported zone"]
+off Factory -8640000000000000	[null,null,false,"unsupported zone"]
+off Factory 0	[null,null,false,"unsupported zone"]
+off Factory 1000000000000	[null,null,false,"unsupported zone"]
+off Factory 1700000000000	[null,null,false,"unsupported zone"]
+off Factory 1800000000000	[null,null,false,"unsupported zone"]
+off Factory 4100000000000	[null,null,false,"unsupported zone"]
+off Factory 8639999996400000	[null,null,false,"unsupported zone"]
+off Factory 8640000000000000	[null,null,false,"unsupported zone"]
+off IST -1000000000000	[330,"IST",true,null]
+off IST -2208988800000	[321.1666666666667,"IST",true,null]
+off IST -62100000000000	[353.46666666666664,"IST",true,null]
+off IST -8639999996400000	[353.46666666666664,"IST",true,null]
+off IST -8640000000000000	[353.46666666666664,"IST",true,null]
+off IST 0	[330,"IST",true,null]
+off IST 1000000000000	[330,"IST",true,null]
+off IST 1700000000000	[330,"IST",true,null]
+off IST 1800000000000	[330,"IST",true,null]
+off IST 4100000000000	[330,"IST",true,null]
+off IST 8639999996400000	[null,null,false,"invalid input"]
+off IST 8640000000000000	[null,null,false,"invalid input"]
+off US/Pacific-New -1000000000000	[-480,"US/Pacific-New",true,null]
+off US/Pacific-New -2208988800000	[-480,"US/Pacific-New",true,null]
+off US/Pacific-New -62100000000000	[-472.96666666666664,"US/Pacific-New",true,null]
+off US/Pacific-New -8639999996400000	[null,null,false,"invalid input"]
+off US/Pacific-New -8640000000000000	[null,null,false,"invalid input"]
+off US/Pacific-New 0	[-480,"US/Pacific-New",true,null]
+off US/Pacific-New 1000000000000	[-420,"US/Pacific-New",true,null]
+off US/Pacific-New 1700000000000	[-480,"US/Pacific-New",true,null]
+off US/Pacific-New 1800000000000	[-480,"US/Pacific-New",true,null]
+off US/Pacific-New 4100000000000	[-480,"US/Pacific-New",true,null]
+off US/Pacific-New 8639999996400000	[-420,"US/Pacific-New",true,null]
+off US/Pacific-New 8640000000000000	[-420,"US/Pacific-New",true,null]
+off asia/kolkata -1000000000000	[330,"asia/kolkata",true,null]
+off asia/kolkata -2208988800000	[321.1666666666667,"asia/kolkata",true,null]
+off asia/kolkata -62100000000000	[353.46666666666664,"asia/kolkata",true,null]
+off asia/kolkata -8639999996400000	[353.46666666666664,"asia/kolkata",true,null]
+off asia/kolkata -8640000000000000	[353.46666666666664,"asia/kolkata",true,null]
+off asia/kolkata 0	[330,"asia/kolkata",true,null]
+off asia/kolkata 1000000000000	[330,"asia/kolkata",true,null]
+off asia/kolkata 1700000000000	[330,"asia/kolkata",true,null]
+off asia/kolkata 1800000000000	[330,"asia/kolkata",true,null]
+off asia/kolkata 4100000000000	[330,"asia/kolkata",true,null]
+off asia/kolkata 8639999996400000	[null,null,false,"invalid input"]
+off asia/kolkata 8640000000000000	[null,null,false,"invalid input"]
+parse ar-EG	[false,null,"the input \"١٤ نوفمبر ٢٠٢٣\" can't be parsed as format d MMMM yyyy"]
+parse ar-EG	[false,null,"the input \"١٤ نوفمبر ٢٠٢٣\" can't be parsed as format d MMMM yyyy"]
+parse ar-EG	[false,null,"the input \"١٤ نوفمبر ٢٠٢٣\" can't be parsed as format d MMMM yyyy"]
+parse ar-EG	[false,null,"the input \"١٤ نوفمبر ٢٠٢٣\" can't be parsed as format d MMMM yyyy"]
+parse ar-EG	[false,null,"the input \"١٤ نوفمبر ٢٠٢٣\" can't be parsed as format d MMMM yyyy"]
+parse ar-EG	[false,null,"the input \"١٤ نوفمبر ٢٠٢٣\" can't be parsed as format d MMMM yyyy"]
+parse de	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse de	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse de	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse de	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse de	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse de	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse en-US	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse en-US	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse en-US	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse en-US	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse en-US	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse en-US	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse es	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse es	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse es	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse es	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse es	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse es	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse fa-IR	[false,null,"the input \"۱۴ آبان ۲۰۲۳\" can't be parsed as format d MMMM yyyy"]
+parse fa-IR	[false,null,"the input \"۱۴ آبان ۲۰۲۳\" can't be parsed as format d MMMM yyyy"]
+parse fa-IR	[false,null,"the input \"۱۴ آبان ۲۰۲۳\" can't be parsed as format d MMMM yyyy"]
+parse fa-IR	[false,null,"the input \"۱۴ آبان ۲۰۲۳\" can't be parsed as format d MMMM yyyy"]
+parse fa-IR	[false,null,"the input \"۱۴ آبان ۲۰۲۳\" can't be parsed as format d MMMM yyyy"]
+parse fa-IR	[false,null,"the input \"۱۴ آبان ۲۰۲۳\" can't be parsed as format d MMMM yyyy"]
+parse fr	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse fr	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse fr	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse fr	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse fr	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse fr	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse he-IL-u-ca-hebrew	[true,"5784-12-01T00:00:00.000+00:00",null]
+parse he-IL-u-ca-hebrew	[true,"5784-12-01T00:00:00.000+00:00",null]
+parse he-IL-u-ca-hebrew	[true,"5784-12-01T00:00:00.000+00:00",null]
+parse he-IL-u-ca-hebrew	[true,"5784-12-01T00:00:00.000+00:00",null]
+parse he-IL-u-ca-hebrew	[true,"5784-12-01T00:00:00.000+00:00",null]
+parse he-IL-u-ca-hebrew	[true,"5784-12-01T00:00:00.000+00:00",null]
+parse hi-IN	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse hi-IN	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse hi-IN	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse hi-IN	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse hi-IN	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse hi-IN	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse ja-JP-u-ca-japanese	[false,null,"the input \"14 11 5\" can't be parsed as format d MMMM yyyy"]
+parse ja-JP-u-ca-japanese	[false,null,"the input \"14 11 5\" can't be parsed as format d MMMM yyyy"]
+parse ja-JP-u-ca-japanese	[false,null,"the input \"14 11 5\" can't be parsed as format d MMMM yyyy"]
+parse ja-JP-u-ca-japanese	[false,null,"the input \"14 11 5\" can't be parsed as format d MMMM yyyy"]
+parse ja-JP-u-ca-japanese	[false,null,"the input \"14 11 5\" can't be parsed as format d MMMM yyyy"]
+parse ja-JP-u-ca-japanese	[false,null,"the input \"14 11 5\" can't be parsed as format d MMMM yyyy"]
+parse ru	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse ru	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse ru	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse ru	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse ru	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse ru	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse th-TH	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse th-TH	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse th-TH	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse th-TH	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse th-TH	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse th-TH	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse zh-Hant-u-nu-hanidec	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse zh-Hant-u-nu-hanidec	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse zh-Hant-u-nu-hanidec	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse zh-Hant-u-nu-hanidec	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse zh-Hant-u-nu-hanidec	[true,"2023-11-14T00:00:00.000+00:00",null]
+parse zh-Hant-u-nu-hanidec	[true,"2023-11-14T00:00:00.000+00:00",null]
+rel ar-EG America/New_York	"خلال ٣ سنوات"
+rel ar-EG Asia/Calcutta	"خلال ٣ سنوات"
+rel ar-EG Asia/Kolkata	"خلال ٣ سنوات"
+rel ar-EG Australia/Lord_Howe	"خلال ٣ سنوات"
+rel ar-EG Europe/Dublin	"خلال ٣ سنوات"
+rel ar-EG asia/kolkata	"خلال ٣ سنوات"
+rel de America/New_York	"in 3 Jahren"
+rel de Asia/Calcutta	"in 3 Jahren"
+rel de Asia/Kolkata	"in 3 Jahren"
+rel de Australia/Lord_Howe	"in 3 Jahren"
+rel de Europe/Dublin	"in 3 Jahren"
+rel de asia/kolkata	"in 3 Jahren"
+rel en-US America/New_York	"in 3 years"
+rel en-US Asia/Calcutta	"in 3 years"
+rel en-US Asia/Kolkata	"in 3 years"
+rel en-US Australia/Lord_Howe	"in 3 years"
+rel en-US Europe/Dublin	"in 3 years"
+rel en-US asia/kolkata	"in 3 years"
+rel es America/New_York	"dentro de 3 años"
+rel es Asia/Calcutta	"dentro de 3 años"
+rel es Asia/Kolkata	"dentro de 3 años"
+rel es Australia/Lord_Howe	"dentro de 3 años"
+rel es Europe/Dublin	"dentro de 3 años"
+rel es asia/kolkata	"dentro de 3 años"
+rel fa-IR America/New_York	"۳ سال بعد"
+rel fa-IR Asia/Calcutta	"۳ سال بعد"
+rel fa-IR Asia/Kolkata	"۳ سال بعد"
+rel fa-IR Australia/Lord_Howe	"۳ سال بعد"
+rel fa-IR Europe/Dublin	"۳ سال بعد"
+rel fa-IR asia/kolkata	"۳ سال بعد"
+rel fr America/New_York	"dans 3 ans"
+rel fr Asia/Calcutta	"dans 3 ans"
+rel fr Asia/Kolkata	"dans 3 ans"
+rel fr Australia/Lord_Howe	"dans 3 ans"
+rel fr Europe/Dublin	"dans 3 ans"
+rel fr asia/kolkata	"dans 3 ans"
+rel he-IL-u-ca-hebrew America/New_York	"בעוד 3 שנים"
+rel he-IL-u-ca-hebrew Asia/Calcutta	"בעוד 3 שנים"
+rel he-IL-u-ca-hebrew Asia/Kolkata	"בעוד 3 שנים"
+rel he-IL-u-ca-hebrew Australia/Lord_Howe	"בעוד 3 שנים"
+rel he-IL-u-ca-hebrew Europe/Dublin	"בעוד 3 שנים"
+rel he-IL-u-ca-hebrew asia/kolkata	"בעוד 3 שנים"
+rel hi-IN America/New_York	"3 वर्ष में"
+rel hi-IN Asia/Calcutta	"3 वर्ष में"
+rel hi-IN Asia/Kolkata	"3 वर्ष में"
+rel hi-IN Australia/Lord_Howe	"3 वर्ष में"
+rel hi-IN Europe/Dublin	"3 वर्ष में"
+rel hi-IN asia/kolkata	"3 वर्ष में"
+rel ja-JP-u-ca-japanese America/New_York	"3 年後"
+rel ja-JP-u-ca-japanese Asia/Calcutta	"3 年後"
+rel ja-JP-u-ca-japanese Asia/Kolkata	"3 年後"
+rel ja-JP-u-ca-japanese Australia/Lord_Howe	"3 年後"
+rel ja-JP-u-ca-japanese Europe/Dublin	"3 年後"
+rel ja-JP-u-ca-japanese asia/kolkata	"3 年後"
+rel ru America/New_York	"через 3 года"
+rel ru Asia/Calcutta	"через 3 года"
+rel ru Asia/Kolkata	"через 3 года"
+rel ru Australia/Lord_Howe	"через 3 года"
+rel ru Europe/Dublin	"через 3 года"
+rel ru asia/kolkata	"через 3 года"
+rel th-TH America/New_York	"ในอีก 3 ปี"
+rel th-TH Asia/Calcutta	"ในอีก 3 ปี"
+rel th-TH Asia/Kolkata	"ในอีก 3 ปี"
+rel th-TH Australia/Lord_Howe	"ในอีก 3 ปี"
+rel th-TH Europe/Dublin	"ในอีก 3 ปี"
+rel th-TH asia/kolkata	"ในอีก 3 ปี"
+rel zh-Hant-u-nu-hanidec America/New_York	"三 年後"
+rel zh-Hant-u-nu-hanidec Asia/Calcutta	"三 年後"
+rel zh-Hant-u-nu-hanidec Asia/Kolkata	"三 年後"
+rel zh-Hant-u-nu-hanidec Australia/Lord_Howe	"三 年後"
+rel zh-Hant-u-nu-hanidec Europe/Dublin	"三 年後"
+rel zh-Hant-u-nu-hanidec asia/kolkata	"三 年後"
+relcal ar-EG America/New_York	"خلال ٤ أشهر"
+relcal ar-EG Asia/Calcutta	"خلال ٤ أشهر"
+relcal ar-EG Asia/Kolkata	"خلال ٤ أشهر"
+relcal ar-EG Australia/Lord_Howe	"خلال ٤ أشهر"
+relcal ar-EG Europe/Dublin	"خلال ٤ أشهر"
+relcal ar-EG asia/kolkata	"خلال ٤ أشهر"
+relcal de America/New_York	"in 4 Monaten"
+relcal de Asia/Calcutta	"in 4 Monaten"
+relcal de Asia/Kolkata	"in 4 Monaten"
+relcal de Australia/Lord_Howe	"in 4 Monaten"
+relcal de Europe/Dublin	"in 4 Monaten"
+relcal de asia/kolkata	"in 4 Monaten"
+relcal en-US America/New_York	"in 4 months"
+relcal en-US Asia/Calcutta	"in 4 months"
+relcal en-US Asia/Kolkata	"in 4 months"
+relcal en-US Australia/Lord_Howe	"in 4 months"
+relcal en-US Europe/Dublin	"in 4 months"
+relcal en-US asia/kolkata	"in 4 months"
+relcal es America/New_York	"dentro de 4 meses"
+relcal es Asia/Calcutta	"dentro de 4 meses"
+relcal es Asia/Kolkata	"dentro de 4 meses"
+relcal es Australia/Lord_Howe	"dentro de 4 meses"
+relcal es Europe/Dublin	"dentro de 4 meses"
+relcal es asia/kolkata	"dentro de 4 meses"
+relcal fa-IR America/New_York	"۴ ماه بعد"
+relcal fa-IR Asia/Calcutta	"۴ ماه بعد"
+relcal fa-IR Asia/Kolkata	"۴ ماه بعد"
+relcal fa-IR Australia/Lord_Howe	"۴ ماه بعد"
+relcal fa-IR Europe/Dublin	"۴ ماه بعد"
+relcal fa-IR asia/kolkata	"۴ ماه بعد"
+relcal fr America/New_York	"dans 4 mois"
+relcal fr Asia/Calcutta	"dans 4 mois"
+relcal fr Asia/Kolkata	"dans 4 mois"
+relcal fr Australia/Lord_Howe	"dans 4 mois"
+relcal fr Europe/Dublin	"dans 4 mois"
+relcal fr asia/kolkata	"dans 4 mois"
+relcal he-IL-u-ca-hebrew America/New_York	"בעוד 4 חודשים"
+relcal he-IL-u-ca-hebrew Asia/Calcutta	"בעוד 4 חודשים"
+relcal he-IL-u-ca-hebrew Asia/Kolkata	"בעוד 4 חודשים"
+relcal he-IL-u-ca-hebrew Australia/Lord_Howe	"בעוד 4 חודשים"
+relcal he-IL-u-ca-hebrew Europe/Dublin	"בעוד 4 חודשים"
+relcal he-IL-u-ca-hebrew asia/kolkata	"בעוד 4 חודשים"
+relcal hi-IN America/New_York	"4 माह में"
+relcal hi-IN Asia/Calcutta	"4 माह में"
+relcal hi-IN Asia/Kolkata	"4 माह में"
+relcal hi-IN Australia/Lord_Howe	"4 माह में"
+relcal hi-IN Europe/Dublin	"4 माह में"
+relcal hi-IN asia/kolkata	"4 माह में"
+relcal ja-JP-u-ca-japanese America/New_York	"4 か月後"
+relcal ja-JP-u-ca-japanese Asia/Calcutta	"4 か月後"
+relcal ja-JP-u-ca-japanese Asia/Kolkata	"4 か月後"
+relcal ja-JP-u-ca-japanese Australia/Lord_Howe	"4 か月後"
+relcal ja-JP-u-ca-japanese Europe/Dublin	"4 か月後"
+relcal ja-JP-u-ca-japanese asia/kolkata	"4 か月後"
+relcal ru America/New_York	"через 4 месяца"
+relcal ru Asia/Calcutta	"через 4 месяца"
+relcal ru Asia/Kolkata	"через 4 месяца"
+relcal ru Australia/Lord_Howe	"через 4 месяца"
+relcal ru Europe/Dublin	"через 4 месяца"
+relcal ru asia/kolkata	"через 4 месяца"
+relcal th-TH America/New_York	"ในอีก 4 เดือน"
+relcal th-TH Asia/Calcutta	"ในอีก 4 เดือน"
+relcal th-TH Asia/Kolkata	"ในอีก 4 เดือน"
+relcal th-TH Australia/Lord_Howe	"ในอีก 4 เดือน"
+relcal th-TH Europe/Dublin	"ในอีก 4 เดือน"
+relcal th-TH asia/kolkata	"ในอีก 4 เดือน"
+relcal zh-Hant-u-nu-hanidec America/New_York	"四 個月後"
+relcal zh-Hant-u-nu-hanidec Asia/Calcutta	"四 個月後"
+relcal zh-Hant-u-nu-hanidec Asia/Kolkata	"四 個月後"
+relcal zh-Hant-u-nu-hanidec Australia/Lord_Howe	"四 個月後"
+relcal zh-Hant-u-nu-hanidec Europe/Dublin	"四 個月後"
+relcal zh-Hant-u-nu-hanidec asia/kolkata	"四 個月後"
